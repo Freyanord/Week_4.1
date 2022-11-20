@@ -1,0 +1,116 @@
+.navigation-bar {
+    position: absolute;
+    width: 1440px;  
+    height: 80px;
+    display: block;
+}
+
+.mainlogo {
+    height: 40px;
+    width: 78px;
+    margin: 20px 1226px 20px 136px;
+    display: inline-block;
+    
+}
+
+a.menu {
+    color: #353732;
+    position: relative;
+    height: 40px;
+    width: 220px;
+    left: 80.28%;
+    right: 1.33%;
+    top: 0px;
+    font-family: Georgia,  Times, serif;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.head {
+    width: 800px;
+    min-height: 148px;
+}
+
+h1 {
+    position: absolute;
+    margin: 180px 320px;
+    width: 800px;  
+    min-height: 148px; 
+}
+
+.text {
+    font-family: 'Palatino Linotype', 'Roboto', serif;
+    font-weight: lighter;
+}
+
+.logo {
+height: 48px;
+left: 2%;
+right: 86.25%;
+top: calc(50% - 48px/2 - 50px);
+}
+
+.container {
+    width: 1440px;
+    min-height: 1390px;
+    margin-top: 220px;
+    margin-left: 100px;
+}
+
+section.block1,.block2 {
+    display: inline-block;
+    padding: 15px;
+}
+
+.block1 {
+    width: 507px;
+    min-height: 550px;
+}
+
+.img1 {
+    width: 505px;
+    min-height: 284px;
+}
+
+h2 {
+    font-family: 'Palatino Linotype', 'Roboto', serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    color: #45525B;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #353732;
+}
+
+.block2 {
+    width: 243px;
+    min-height: 255px;
+}
+
+.img2 {
+    width: 243px;
+    min-height: 137px;
+}
+
+h4 {
+    font-family: 'Palatino Linotype', 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.block3 {
+    width: 243px;
+    min-height: 94px;
+    
+}
